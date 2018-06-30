@@ -1,3 +1,13 @@
 baseURL = "https://jmosawy.com/"
 languageCode = "en-us"
 title = "Jeff Mosawy — Software Engineer"
+theme = "persoblog"
+
+[params]
+  ## Site Wide
+  description = "Personal website of Jeff Mosawy, a software engineer based in Tehran, Iran."
+  ## Social Links
+  github = "https://github.com/jmosawy"
+  linkedin = "https://linkedin.com/in/jmosawy/"
+  twitter = "https://twitter.com/jmosawy"
+  instagram = "https://instagram.com/jmosawy"

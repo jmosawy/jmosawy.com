@@ -1,0 +1,3 @@
+[submodule "themes/persoblog"]
+	path = themes/persoblog
+	url = https://jmosawy@github.com/jmosawy/persoblog.git
